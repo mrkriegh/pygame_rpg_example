@@ -1,0 +1,1 @@
+This directory will contain the development structure of the project. This is being done as the last project needed to be completely reorganized to create the Windows Installer file, and I would like to continue development after creating the installer the first time.
